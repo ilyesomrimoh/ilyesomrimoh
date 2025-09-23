@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ilyes Omri 👋
 
-<!--
-**ilyesomrimoh/ilyesomrimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science student | 💻 Web Developer | 🚀 AI & Networking Enthusiast  
 
-Here are some ideas to get you started:
+I build modern, responsive web applications and explore how AI and systems can solve real-world problems.  
+Currently open to internships and collaborations in **software development, AI projects, and web platforms**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+- 🔭 Currently working on: freelance web projects  
+- 🌱 Learning: AI applications  
+- 🌍 Based in Algeria  
+
+
+## 🔗 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/ilyes-mohammed-omri)  
+- 🌐 [Portfolio](https://ilyesomri.com)  
+- 📧 Email: mi.omri@esi-sba.dz
+
+## 🛠️ Skills & Technologies
+- **Languages & Frameworks**: JavaScript (React, Node.js), Python, Java, PHP, SQL, MongoDB  
+- **Web Development**: WordPress, Webflow, Salla, HTML, CSS  
+- **AI & Data**: Machine Learning basics 
+- **Systems**: Virtual Machines, Network Configuration, Microservices  
+
+
+## 📊 GitHub Stats
+![Ilyes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyesomri&show_icons=true&theme=tokyonight)  
+
+⭐️ From [ilyesomri](https://github.com/ilyesomri)
