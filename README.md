@@ -15,7 +15,7 @@ Currently open to internships and collaborations in **software development, AI p
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/ilyes-mohammed-omri)  
 - 🌐 [Portfolio](https://ilyesomri.com)  
-- 📧 Email: mi.omri@esi-sba.dz
+- 📧 mi.omri@esi-sba.dz
 
 ## 🛠️ Skills & Technologies
 - **Languages & Frameworks**: JavaScript (React, Node.js), Python, Java, PHP, SQL, MongoDB  
