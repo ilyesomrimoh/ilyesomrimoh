@@ -23,8 +23,4 @@ Currently open to internships and collaborations in **software development, AI p
 - **AI & Data**: Machine Learning basics 
 - **Systems**: Virtual Machines, Network Configuration, Microservices  
 
-
-## 📊 GitHub Stats
-![Ilyes's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyesomri&show_icons=true&theme=tokyonight)  
-
 ⭐️ From [ilyesomri](https://github.com/ilyesomri)
